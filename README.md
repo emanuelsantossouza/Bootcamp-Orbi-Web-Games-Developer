@@ -1,2 +1,3 @@
-# Projetos dio 
-Nessa pasta sera adicionado todos projetos de todos os curso realizados na plataforma da dio
+# Bootcamp-Orbi-Web-Games-Developer
+Nessa pasta estara adicionado todos projetos do Bootcamp Orbi Web Games Developer
+que foi feito na dio.me
